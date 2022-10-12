@@ -1,0 +1,10 @@
+img {
+  float: left;
+  max-width: 50%;
+  height: auto;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+}
